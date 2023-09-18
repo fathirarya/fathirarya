@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm M. Fathir Arya Nafis, a dedicated student on a
 ### Stats:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fathirarya alt=fathirarya /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fathirarya&show_icons=true&include_all_commits=true)](https://github.com/fathirarya/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathirarya&layout=compact)](https://github.com/fathirarya/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fathirarya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 
 ### Let's connect!
 
