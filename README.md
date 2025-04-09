@@ -1,12 +1,17 @@
 # Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Fathir!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Go+Developer;Student+%26+Tech+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Fresh+Graduate+Developer;Go+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm **M. Fathir Arya Nafis**, a dedicated student passionate about exploring the vast world of programming. Currently, I'm immersed in learning the Go (Golang) programming language and building projects to enhance my skills.
+Welcome to my GitHub profile! I'm **M. Fathir Arya Nafis**, a fresh graduate with a passion for software development. Currently focusing on building my portfolio through Go (Golang) projects and exploring modern software development practices. I'm eager to apply my academic knowledge to real-world challenges!
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+> "The only way to learn a new programming language is by writing programs in it." – Dennis Ritchie
+
+## 🎓 Education
+
+- Bachelor's Degree in [Your Field] - [Your University Name]
+- Relevant coursework: Software Engineering, Data Structures & Algorithms, Database Systems
 
 ## 🚀 Skills & Technologies
 
@@ -27,17 +32,21 @@ Welcome to my GitHub profile! I'm **M. Fathir Arya Nafis**, a dedicated student 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathirarya&layout=compact&theme=radical" alt="Most Used Languages" height="165"/>
 </p>
 
-## 📌 Featured Projects
+## 📌 Portfolio Projects
 
 ### 🍅 TomatoLeafDetect
 A machine learning project to detect diseases in tomato leaves using image classification techniques.
 [View Project](https://github.com/fathirarya/TomatoLeafDetect)
 
-## 🌱 I'm currently learning...
+## 💼 Open to Work
 
-- Advanced Go programming patterns
-- RESTful API development
-- Docker
+I'm actively seeking opportunities in:
+- Backend Development
+- Go (Golang) Programming
+- Software Engineering
+- Junior Developer Roles
+
+Feel free to reach out if you know of any positions that might be a good fit!
 
 ## 📫 Let's Connect!
 
@@ -51,6 +60,10 @@ A machine learning project to detect diseases in tomato leaves using image class
   <a href="mailto:fathirarya2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <!-- Consider adding LinkedIn if you have it -->
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -59,4 +72,4 @@ A machine learning project to detect diseases in tomato leaves using image class
   <img src="https://komarev.com/ghpvc/?username=fathirarya&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
-<!-- Fun Easter egg: Thanks for checking out my GitHub profile! Let's build something amazing together. -->
+<!-- Looking forward to connecting with potential employers and collaborators! -->
