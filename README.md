@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **M. Fathir Arya Nafis**, a fresh graduate wit
 
 ## 🎓 Education
 
-- Bachelor's Degree in [Your Field] - [Your University Name]
+- Bachelor's Degree in Informatics Engineering - Gunadarma University
 - Relevant coursework: Software Engineering, Data Structures & Algorithms, Database Systems
 
 ## 🚀 Skills & Technologies
